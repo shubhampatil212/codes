@@ -1,0 +1,9 @@
+1 - timw - 2^n space o(n)
+Huffman Encoding - nlogn and space - o(n)
+ fractional Knapsack - The time complexity of the fractional knapsack problem using the greedy method is O(n log n) 
+due to the sorting step, and the space complexity is O(n) for storing the items.
+
+The time complexity of the 0-1 Knapsack problem using dynamic programming is O(nW), and 
+the space complexity is O(nW), where n is the number of items and W is the capacity of the knapsack.
+
+The time complexity of the n-Queens problem using backtracking is O(n!) (factorial time complexity due to the recursive exploration of possible placements for each queen), and the space complexity is O(n^2) for the board storage and the recursion stack.
